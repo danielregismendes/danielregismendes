@@ -1,6 +1,9 @@
 
 ## Olá, Sou Daniel Mendes!
 
+Jogue meus jogos em:
+https://daniel-savu.itch.io/
+
 <div align="center">
   <a href="https://github.com/danielregismendes">
   <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=danielregismendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
